@@ -5,3 +5,8 @@ This repo exists to unlock GitHub achievements:
 - ✅ YOLO: Merge a PR within 24 hours of repo creation
 
 This is a legitimate use of throwaway repos for achievement farming.
+
+## Achievement Progress
+
+- ✅ Quickdraw unlocked
+- ⏳ YOLO in progress...
